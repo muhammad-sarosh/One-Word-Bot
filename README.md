@@ -4,6 +4,12 @@ One Word Bot is a fun and interactive Discord bot that lets you and your friends
 
 ---
 
+## ➕ [Invite the Bot to Your Server!](https://discord.com/oauth2/authorize?client_id=1149690064977281104)
+
+Click the link above to add One Word Bot to your own Discord server and start playing with your friends!
+
+---
+
 ## 🎮 How to Play
 
 1. **Start a game** with your friends.
@@ -15,7 +21,7 @@ One Word Bot is a fun and interactive Discord bot that lets you and your friends
 > - Please use double quotes `"` for open and end quotes, instead of single quotes `'`.  
 > - Incorrect grammar may cause the story not to appear correctly in the `-view` command, since spaces are inserted based on grammar rules.
 > - Only the **Host** (or Admin, for ending the game) has access to some moderation commands.
- 
+
 ---
 
 ## 📜 Commands
