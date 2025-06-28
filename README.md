@@ -4,9 +4,10 @@ One Word Bot is a fun and interactive Discord bot that lets you and your friends
 
 ---
 
-## ➕ [Invite the Bot to Your Server!](https://discord.com/oauth2/authorize?client_id=1149690064977281104)
+## ➕ [Invite the Bot to Your Server](https://discord.com/oauth2/authorize?client_id=1149690064977281104)
 
-Click the link above to add One Word Bot to your own Discord server and start playing with your friends!
+Click the link above to add One Word Bot to your own Discord server and start playing with your friends <br>
+Or you can clone the repo and host the code on your own bot
 
 ---
 
